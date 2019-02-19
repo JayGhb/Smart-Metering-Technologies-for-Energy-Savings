@@ -8,7 +8,7 @@ The main points of the project could be summarized to:
 * Install and use the Openenergymonitor devices, EmonPi & EmonTx.
 * Set up a local database server
 * Redirect data collected from the Emon devices to the local database
-* Create a RESTful API in Python for the local database (implemented with Flask framework)
+* Create a RESTful API in Python for the local database (implemented using Flask framework)
 * Create a minimal Air-Condition detection application generating [Tweets](https://twitter.com/TNodered) when AC is detected (extra task)
 
 ## Abstract
